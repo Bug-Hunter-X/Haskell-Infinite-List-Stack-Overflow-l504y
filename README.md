@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell involving the handling of infinite lists. The `bug.hs` file contains code that leads to a stack overflow due to the premature evaluation of an infinite list. The `bugSolution.hs` file provides a corrected version, effectively addressing the stack overflow issue.
